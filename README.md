@@ -104,7 +104,7 @@ Latitude/Longitude: 37.386 , -122.0838
 
 ## ✍️ Author
 
-**Panda** – Aspiring Cybersecurity Analyst  
+**Panda** – Aspiring pentester  
 GitHub: [@winner7531](https://github.com/winner7531)
 
 ---
